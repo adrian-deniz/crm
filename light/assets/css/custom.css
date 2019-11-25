@@ -7,3 +7,11 @@
     z-index: -1;
     background-color: #00263d;
 }
+
+.navbar-brand {
+    text-transform: lowercase;
+    font-size: .8571em;
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+    line-height: 1.625rem;
+}
